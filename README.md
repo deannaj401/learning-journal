@@ -13,5 +13,6 @@ My name is Deanna. I live in Montana about 30 minutes from Glacier National Park
 
 ### Markdown notes
 - a '#' makes a heading size
-- '1." makes and ordered list
+- '1." makes an ordered list
+- '*'  makes italic
 

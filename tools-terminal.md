@@ -39,3 +39,5 @@ IDE is a text editor, file manager compiler and debugger all in one
 
 everything is a file in Linux
 there are no extensions and it is case sensative
+
+[My Notes](https://github.com/deannaj401/learning-journal/blob/master/tools-terminal.md)

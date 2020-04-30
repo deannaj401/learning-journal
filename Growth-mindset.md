@@ -9,7 +9,3 @@ Growth Mindset is the mind set that abilities can be developed through hard work
 
 My name is Deanna. I live in Montana about 30 minutes from Glacier National Park. I love to read and play games. I have a background in Graphic Design and am hoping to learn coding so that I can expand my skill set.
 
-### Markdown notes
-- a '#' makes a heading size
-- '1." makes an ordered list
-- '*'  makes italic

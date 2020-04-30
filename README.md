@@ -8,4 +8,4 @@ Hi my name is Deanna and this is my learning journal
 
 [Git and GitHub](git-github.md)
 
-
+[Markdown notes](markdown.md)

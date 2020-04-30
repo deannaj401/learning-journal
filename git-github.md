@@ -49,7 +49,7 @@ link to the document from reading assignment
 [Git reading assignment](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 link to my learning journal
-[learning journal](https://github.com/deannaj401/learning-journal)
+[learning journal](https://deannaj401.github.io/learning-journal/)
 
 Have a nice day and be kind
 

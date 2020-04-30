@@ -1,18 +1,11 @@
 # My learning Journal
 
-### Growth Mindset
+Hi my name is Deanna and this is my learning journal
 
-Growth Mindset is the mind set that abilities can be developed through hard work and dedication. If a person works hard and puts in the time they can learn anything
+[Growth Mindset](Growth-mindset.md)
 
-#### Ways to keep yourself in a growth mindset
-1. persevere through obstacles
-1. ask questions
-1. put in effort
+[Tools and Terminals](tools-terminal.md)
 
-My name is Deanna. I live in Montana about 30 minutes from Glacier National Park. I love to read and play games. I have a background in Graphic Design and am hoping to learn coding so that I can expand my skill set.
+[Git and GitHub](git-github.md)
 
-### Markdown notes
-- a '#' makes a heading size
-- '1." makes an ordered list
-- '*'  makes italic
 

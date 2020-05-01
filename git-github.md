@@ -51,7 +51,7 @@ link to the document from reading assignment
 link to my learning journal
 [learning journal](https://deannaj401.github.io/learning-journal/)
 
-Have a nice day and be kind
+
 
 
 

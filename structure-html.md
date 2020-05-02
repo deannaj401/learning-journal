@@ -28,7 +28,7 @@ the information you present.
 - ```<aside>``` in an ```<article>``` contains info that is related but not essential to its overall meaning like a glossary
 - ```<aside>``` not in an ```<article>``` contains content that is related to the entire page like links to other sections
 
-- ```<section>``` groups related content together and typically has itw own heading
+- ```<section>``` groups related content together and typically has its own heading
 
 - ```<hgroup>``` groups together a set of h1 and h6 heading so they are treated as one heading
 

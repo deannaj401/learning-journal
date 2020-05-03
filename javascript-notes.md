@@ -40,3 +40,4 @@ by the JavaScript interpreter.
 * String --- "hi there"
 * boolean ---true or false
 
+ https://deannaj401.github.io/learning-journal/

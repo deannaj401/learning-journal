@@ -11,3 +11,8 @@ Hi my name is Deanna and this is my learning journal
 [Markdown notes](markdown.md)
 
 [HTML structure](structure.html.md)
+
+[Css notes](css-notes.md)
+
+[Javascript notes 1](javascript-notes.md)
+

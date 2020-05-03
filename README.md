@@ -16,3 +16,4 @@ Hi my name is Deanna and this is my learning journal
 
 [Javascript notes 1](javascript-notes.md)
 
+[How Computers Work](how-comp-work.md)
